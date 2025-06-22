@@ -6,12 +6,11 @@ Welcome to my GitHub profile!
 
 I'm a passionate developer interested in open-source, learning new technologies, and building useful projects. I enjoy collaborating with others and sharing knowledge.
 
-- 🔭 I’m currently working on: [Your current project or area of focus]
-- 🌱 I’m currently learning: [Languages, frameworks, or tools]
-- 👯 I’m looking to collaborate on: [Types of projects or technologies]
-- 💬 Ask me about: [Topics you’re knowledgeable about]
-- 📫 How to reach me: [Your preferred contact method]
-- ⚡ Fun fact: [A fun or unique fact about you!]
+- 🔭 I’m currently working on: Myself 🤗
+- 🌱 I’m currently learning: Backend and Microservices
+- 👯 I’m looking to collaborate on: interesting projects
+- 💬 Ask me about: Software Engineering
+- 📫 How to reach me: hammedanuoluwapopelumi@gmail.com
 
 ## 🛠️ Languages and Tools
 
@@ -21,7 +20,11 @@ I'm a passionate developer interested in open-source, learning new technologies,
 
 ## 📈 GitHub Stats
 
-![tgenericx's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgenericx&show_icons=true&hide_title=true)
+![tgenericx's Stats](https://github-readme-stats.vercel.app/api?username=tgenericx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![tgenericx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tgenericx&theme=vue-dark&hide_border=true)
+
+![tgenericx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tgenericx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Optionally add more widgets or stats -->
 
