@@ -20,6 +20,8 @@ I'm a passionate developer interested in open-source, learning new technologies,
 
 ## 📈 GitHub Stats
 
+![tgenericx's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgenericx&show_icons=true&hide_title=true)
+
 ![tgenericx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tgenericx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Optionally add more widgets or stats -->
