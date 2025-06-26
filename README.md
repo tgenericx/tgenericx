@@ -44,8 +44,11 @@ Currently diving deep into **Microservices Architecture** and advanced backend p
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tgenericx&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tgenericx&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tgenericx&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tgenericx&theme=radical" />
 </p>
 
 <p align="center">
