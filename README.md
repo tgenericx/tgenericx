@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Hammed Anuoluwapo Pelumi</h1>
+<h1 align="center">👋 Hello, I'm tgenericx</h1>
 <h3 align="center">🚀 Passionate Software Engineer from Nigeria 🇳🇬</h3>
 
 <p align="center">
